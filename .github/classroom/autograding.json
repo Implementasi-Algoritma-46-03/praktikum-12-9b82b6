@@ -84,7 +84,7 @@
       "name": "TP03a",
       "setup": "javac TP03.java",
       "run": "java TP03",
-      "input": "3\n1 2 3\n4 5 6\n7 8 9\n20 21 22\n23 24 25",
+      "input": "3\n1 2 3\n4 5 6\n7 8 9\n20 21 22\n23 24 25\n26 27 28",
       "output": "144 150 156\n351 366 381\n558 582 606",
       "comparison": "included",
       "timeout": 10,
