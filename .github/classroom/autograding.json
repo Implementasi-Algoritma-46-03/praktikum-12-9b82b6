@@ -8,7 +8,7 @@
       "output": "3 4\n1 2",
       "comparison": "included",
       "timeout": 10,
-      "points": 15
+      "points": 10
     },
 	{
       "name": "Jurnal01b",
@@ -18,7 +18,7 @@
       "output": "7 8 9\n4 5 6\n1 2 3",
       "comparison": "included",
       "timeout": 10,
-      "points": 15
+      "points": 10
     },
     {
       "name": "Jurnal02a",
@@ -28,7 +28,7 @@
       "output": "?",
       "comparison": "included",
       "timeout": 10,
-      "points": 15
+      "points": 10
     },
 	{
       "name": "Jurnal02b",
@@ -38,7 +38,7 @@
       "output": "O",
       "comparison": "included",
       "timeout": 10,
-      "points": 15
+      "points": 10
     },
     {
       "name": "Jurnal03",
@@ -48,7 +48,7 @@
       "output": "1 16 15 14 13\n2 17 24 23 12\n3 18 25 22 11\n4 19 20 21 10\n5 6 7 8 9",
       "comparison": "included",
       "timeout": 10,
-      "points": 7.5
+      "points": 30
     },
     {
       "name": "TP01a",
@@ -70,17 +70,7 @@
       "timeout": 10,
       "points": 5
     },
-	{
-      "name": "TP02a",
-      "setup": "javac TP02.java",
-      "run": "java TP02",
-      "input": "2",
-      "output": "dimanche",
-      "comparison": "included",
-      "timeout": 10,
-      "points": 5
-    },
-	{
+	  {
       "name": "TP02b",
       "setup": "javac TP02.java",
       "run": "java TP02",
@@ -88,7 +78,7 @@
       "output": "11 13 15\n17 19 21\n23 25 27",
       "comparison": "included",
       "timeout": 10,
-      "points": 5
+      "points": 10
     },
     {
       "name": "TP03a",
@@ -98,7 +88,7 @@
       "output": "144 150 156\n351 366 381\n558 582 606",
       "comparison": "included",
       "timeout": 10,
-      "points": 2.5
+      "points": 10
     }
   ]
 }
