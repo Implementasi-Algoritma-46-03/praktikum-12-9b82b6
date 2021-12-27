@@ -55,7 +55,7 @@
       "setup": "javac TP01.java",
       "run": "java TP01",
       "input": "2\n1 2\n3 4",
-      "output": "2 1\n3 4",
+      "output": "2 1\n4 3",
       "comparison": "included",
       "timeout": 10,
       "points": 5
